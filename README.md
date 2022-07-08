@@ -66,29 +66,29 @@ Desconectaremos los generadores independientes que haya en el circuito. Si hubie
 
 ![image](https://user-images.githubusercontent.com/104999420/177917179-58119ccf-1eec-4566-9aa1-2ffc1dd643c7.png)
 
-Figura 3.1. Circuito para comprobar el Teorema de Thévenin.
+### Figura 3.1. Circuito para comprobar el Teorema de Thévenin.
 
-### 3.3.2Circuito armado en tinkercad 
+### 3.3.2 Mida el voltaje en el resistor R5.
 
 ![image](https://user-images.githubusercontent.com/104999420/177917230-4271bd0a-42af-43c6-9621-05de0e6b8e8e.png)
 
-Figura 3.2. Circuito con la medición de voltaje con sus fuentes de voltaje y su resistencia.
+### Figura 3.2. Mida la corriente en el resistor R5.
 
 ![image](https://user-images.githubusercontent.com/104999420/177917270-6c8a2677-a092-44d7-9249-db0e318d89d7.png)
 
-Figura 3.3. Circuito con la medición de su corriente, con las fuentes de voltaje y sus resistencias.
+### Figura 3.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto.
  
 ![image](https://user-images.githubusercontent.com/104999420/177917296-e4cc96ee-2de0-40f7-86b9-401903e1c549.png)
 
-Figura 3.4. Circuito con la medición del voltaje Thévenin sin la resistencia R3.
+### Figura 3.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente.
 
 ![image](https://user-images.githubusercontent.com/104999420/177917328-3ac7546b-d296-4181-beb2-e1185331c61f.png)
 
-Figura 3.5. Circuito con la medición de la resistencia equivalente Thévenin sin la resistencia R5 y sin sus fuentes de voltaje.
+### Figura 3.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida el voltaje en el mismo.
 
 ![image](https://user-images.githubusercontent.com/104999420/177917362-1f56564f-b852-457d-99cb-8d7b3296f64f.png)
 
-Figura 3.6. Circuito equivalente de Thévenin con la medición del voltaje en la resistencia R_5
+### Figura 3.6. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente en el mismo.
 
 ![image](https://user-images.githubusercontent.com/104999420/177917392-5b97198c-1d50-45a5-816d-ba78c1fc406a.png)
 
@@ -116,8 +116,7 @@ Figura 3.7. Circuito equivalente de Thévenin con la medición de la corriente e
 
 <img width="330" alt="image" src="https://user-images.githubusercontent.com/104999420/177917821-a962581b-e53d-48b0-9655-7ae02908a5a0.png">
 
-### 3.3.6. Implemente el circuito equivalente de Thévenin agregue el resistor R5 y mida la
-corriente y el voltaje en el mismo, anote los resultados en la tabla 3.2. 
+### 3.3.6. Implemente el circuito equivalente de Thévenin agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 3.2. 
 
 <img width="387" alt="image" src="https://user-images.githubusercontent.com/104999420/177917880-c461d53b-3cc8-414e-b8c4-27f164ea0c70.png">
 
@@ -132,8 +131,7 @@ Tabla 3.2. Comprobación del Teorema de Thévenin.
 
 <img width="437" alt="image" src="https://user-images.githubusercontent.com/104999420/177917991-289abf06-d66f-4ca5-b591-509e88497b69.png">
 
-### 3.1.4. Verifique el cumplimiento del Teorema de Thévenin y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
-conclusiones.
+### 3.1.4. Verifique el cumplimiento del Teorema de Thévenin y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
 Después de haber aplicado el teorema de Thévenin en el circuito propuesto, pues se pudo comprobar que, si se cumple, ya que al comparar con los resultados obtenidos del simulador nos damos cuenta de que los valores no tienen una gran diferencia y es por eso que a continuación se ha realizado el cálculo de margen de error para saber cuánto es el porcentaje que estas varían.
 
