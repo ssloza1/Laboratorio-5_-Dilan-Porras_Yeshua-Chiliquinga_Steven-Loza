@@ -13,7 +13,7 @@ Todo circuito lineal, o una parte de él, situado entre dos puntos A y B, puede 
 
 La resistencia Thevenin es la resistencia equivalente del circuito vista desde los puntos A y B. Para obtener el valor de dicha resistencia procederemos de la siguiente manera:
 
-+ Desconectaremos los generadores independientes que haya en el circuito. Si hubiese generadores dependientes el procedimiento sería el descrito en el vídeo que puedes ver al final de este artículo. Al desconectar los generadores, los sustituiremos por su circuito equivalente:
+Desconectaremos los generadores independientes que haya en el circuito. Si hubiese generadores dependientes el procedimiento sería el descrito en el vídeo que puedes ver al final de este artículo. Al desconectar los generadores, los sustituiremos por su circuito equivalente:
 + Si desconectamos un generador de tensión, su tensión será cero. Por lo tanto su circuito equivalente será un cortocircuito entre sus terminales.
 + Sin embargo, si desconectamos un generador de corriente, la intensidad será cero. El circuito equivalente del generador en este caso es un circuito abierto.
 
