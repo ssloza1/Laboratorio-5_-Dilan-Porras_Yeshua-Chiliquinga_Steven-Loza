@@ -145,7 +145,6 @@ Cálculo de error del voltaje de Thévenin
 
 ## 4. VIDEO:
 
-https://youtu.be/CK4lbDKU3C4
 
 ## 5. CONCLUSIONES:
 
