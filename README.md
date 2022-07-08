@@ -31,10 +31,12 @@ FECHA
 
 #### 1.1 OBJETIVO GENERAL:
 
-
+•	Analizar y desarrollar ejercicios de circuitos eléctricos aplicados a el teorema de Thevenin para la descomposición de sus características las cuales permiten a las personas calcular de mejor manera y mas simplificada la variable desconocida mediante el uso de información teórica.
 #### 1.2 OBJETIVO ESPECIFICOS:
 
+•	Describir y descubrir las caracteristicas del teorema de Thevenin orrespondientes para lo cual se hace uso de la información teóricas proporcionada mediante el uso de sitios web y videos tutoriales.
 
+•	Analizar y calcular diferentes ejemplos de circuitos aplicando el teorema de Thevenin aprendido anteriormente en clases para lo cual se realizarán ejercicios experimentales para la comprobación mediante simuladores virtuales.
 ## 2 MARCO TEÓRICO:
 
 ### ¿QUÉ ES THEVENIN?
@@ -141,6 +143,25 @@ Cálculo de error del voltaje de Thévenin
 
 <img width="488" alt="image" src="https://user-images.githubusercontent.com/104999420/177918104-fe83cfe9-883a-4305-ae95-bbfeb7436980.png">
 
+## 4. VIDEO:
+
+https://youtu.be/CK4lbDKU3C4
+
+## 5. CONCLUSIONES:
+
+•	El teorema de Thevenin comprende una rama importante en la realizacion de ejercicios de fundamientos de circuitos lo cual se compone de caracteristicas aprendidas anterioremente es importante tomar en cuaenta cuando se tenga dudas de las resoluciones de ejercicios de circuitos paralelos.
+
+•	La resolución de ejercicios aplicando el teorema de Thevenin es tambien tener en cuenta los metodos aprendidos aplicados en las leyes de kirchoff el teorema indica que debes separar por partes cada malla del circuito.
+
+## 6. RECOMENDACIONES:
+
+• Al momento de realizar los cálculos tener en cuenta el tipo de multímetro y en que parte del multímetro se desea hacer la consulta ya que si se hace mal uso de este se podría perder el multímetro las protoboards tratar de distribuir bien sus funciones y no poner todo en un solo lugar.
+
+• En los cálculos tener muy en cuenta la formula del teorema de Thevenin ya que se desean los cálculos aplicando ese método tomar en cuenta la interrogante que nos pide encontrar y realizar cálculos preciosos, los componentes de experimento tener en cuenta y revisarlos antes de ponerlos en usa controlar el voltaje de entrada y realizar el trabajo con las indicaciones correspondientes.
+
+## 7. BIBLIOGRAFÍA:
+
+Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
 
 
 
